@@ -1,2 +1,2 @@
 # e-retail-store-project
-This is an online retail websitr
+This is an online retail website
